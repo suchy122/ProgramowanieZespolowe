@@ -1,2 +1,2 @@
 # ProgramowanieZespolowe
-Projekt z programowania zespołowego - sklep komputerowy (Java, JavaFX, MySql) + instalator aplikacji
+Projekt z programowania zespołowego - sklep komputerowy (Java, JavaFX, MySql)
